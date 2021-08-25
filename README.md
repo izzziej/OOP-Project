@@ -2,6 +2,7 @@
 Unit 10 Bootcamp project 
 
 > Watch it in action Video [_here_]() 
+> See the live page here => https://izzziej.github.io/OOP-Project/
 
 ## Table of Contents
 
